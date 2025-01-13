@@ -501,3 +501,45 @@ h6,
     padding-right: 0;
     border-right: none;
 }
+
+
+.refund-header{
+    height: 60px;
+    width: 100%;
+    background-color: rgb(57, 4, 57);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h1{
+        color: white;
+        text-decoration: underline;
+    }
+}
+
+.refund{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+}
+.refund-content{
+    height: auto;
+    width: 80%;
+    line-height: 30px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+thead{
+    color: black;
+}
+th, td {
+    border: 1px solid black; /* Cell borders */
+    text-align: center;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2; /* Header background color */
+}
