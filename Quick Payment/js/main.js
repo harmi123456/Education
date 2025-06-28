@@ -1,6 +1,6 @@
 /* -------------------------------------------
 
-Name:       Plax
+Name:       Quick payment
 Version:    1.1
 Author:	    bslthemes
 Website:    https://bslthemes.com/
